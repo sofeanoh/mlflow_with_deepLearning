@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/athirahsofea/mlflow_with_deepLearning/mlruns/818863518837143279/3f6e97993a924c14a4c9b0f5a6ba79fb/artifacts
+end_time: 1735623776034
+entry_point_name: ''
+experiment_id: '818863518837143279'
+lifecycle_stage: active
+run_id: 3f6e97993a924c14a4c9b0f5a6ba79fb
+run_name: bald-calf-891
+run_uuid: 3f6e97993a924c14a4c9b0f5a6ba79fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735623726392
+status: 3
+tags: []
+user_id: athirahsofea

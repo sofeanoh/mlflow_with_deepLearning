@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/athirahsofea/mlflow_with_deepLearning/mlruns/818863518837143279/39f68009d6e0464e81390f115f1dc864/artifacts
+end_time: 1735619568014
+entry_point_name: ''
+experiment_id: '818863518837143279'
+lifecycle_stage: active
+run_id: 39f68009d6e0464e81390f115f1dc864
+run_name: nervous-snipe-52
+run_uuid: 39f68009d6e0464e81390f115f1dc864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735619518549
+status: 3
+tags: []
+user_id: athirahsofea

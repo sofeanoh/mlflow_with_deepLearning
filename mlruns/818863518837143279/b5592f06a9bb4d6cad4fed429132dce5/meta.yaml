@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/athirahsofea/mlflow_with_deepLearning/mlruns/818863518837143279/b5592f06a9bb4d6cad4fed429132dce5/artifacts
+end_time: 1735623489548
+entry_point_name: ''
+experiment_id: '818863518837143279'
+lifecycle_stage: active
+run_id: b5592f06a9bb4d6cad4fed429132dce5
+run_name: sneaky-cub-46
+run_uuid: b5592f06a9bb4d6cad4fed429132dce5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735623440274
+status: 3
+tags: []
+user_id: athirahsofea

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1735619611461
+current_stage: None
+description: ''
+last_updated_timestamp: 1735619611461
+name: news_classification
+run_id: 39f68009d6e0464e81390f115f1dc864
+run_link: ''
+source: file:///Users/athirahsofea/mlflow_with_deepLearning/mlruns/818863518837143279/39f68009d6e0464e81390f115f1dc864/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/athirahsofea/mlflow_with_deepLearning/mlruns/818863518837143279/39f68009d6e0464e81390f115f1dc864/artifacts/model
+user_id: null
+version: 1
