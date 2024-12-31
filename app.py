@@ -19,7 +19,7 @@ def load_model(model_uri):
     return model
 
 encoder = load_pickle('news_encoder.pkl')
-model = load_model("models:/news_classification/1")
+model = load_model("runs:/39f68009d6e0464e81390f115f1dc864")
 
 #%% 
 st.title("News Classification")
